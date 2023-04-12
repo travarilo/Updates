@@ -49,7 +49,8 @@
             android:ellipsize="marquee"
             android:marqueeRepeatLimit="marquee_forever"
             android:singleLine="true"
-            android:textColor="?android:textColorSecondary"
+            android:textColor="?android:textColorPrimary"
+            android:textStyle="bold"
             android:textSize="18sp"
             tools:text="PixelExperience_device-10.0-20200115-2020-OFFICIAL.zip" />
 
